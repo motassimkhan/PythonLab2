@@ -1,0 +1,11 @@
+path = 'File_handling/document.txt'
+f=open(path,'r+')
+print("Contents of document.txt :- ")
+print(f.read())
+content=input("Enter content to write in document.txt :")
+f.write(content)
+f.close()
+f=open(path,'r')
+print("After Writing into document.txt:- ")
+print(f.read())
+f.close()
