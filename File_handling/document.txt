@@ -1,5 +1,0 @@
-This is first line of a sample file
-This is second line of a sample file
-This is third line of a sample file
-This is fourth line of a sample file
-This is fifth line of a sample file
