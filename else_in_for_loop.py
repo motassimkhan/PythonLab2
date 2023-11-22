@@ -5,3 +5,4 @@ for i in n:
     print(i)
 else:
     print("you have entered: ",n)
+print('\n')
